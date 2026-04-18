@@ -27,7 +27,7 @@ Para o bot funcionar, ele espera a seguinte estrutura de pastas:
 │   └── jogadores.txt
 ├── pom.xml           
 └── README.md
-
+```
 ## ⚙️ Como Configurar
 
 1. **WebDriver:** Baixe o `msedgedriver.exe` compatível com a sua versão do Edge.
