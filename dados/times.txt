@@ -1,0 +1,119 @@
+Real Madrid
+Barcelona
+Manchester United
+Manchester City
+Liverpool
+Arsenal
+Chelsea
+Bayern de Munique
+Borussia Dortmund
+PSG
+Juventus
+Inter de Milão
+Milan
+Napoli
+Roma
+Atletico de Madrid
+Flamengo
+Palmeiras
+Corinthians
+São Paulo
+Sport
+Cardiff
+Amazonas
+América Mineiro
+Avaí
+Botafogo de Ribeirão Preto
+Brusque
+Ceará
+Chapecoense
+Coritiba
+CRB
+Goiás
+Guarani
+Ituano
+Mirassol
+Novorizontino
+Operário Ferroviário
+Paysandu
+Ponte Preta
+Santos
+Vila Nova
+ABC
+Aparecidense
+Athletic Club
+Botafogo da Paraíba
+Caxias
+Confiança
+CSA
+Ferroviária
+Ferroviário
+Figueirense
+Floresta
+Londrina
+Náutico
+Remo
+São Bernardo
+São José
+Sampaio Corrêa
+Tombense
+Volta Redonda
+Ypiranga
+Água Santa
+Altos
+América de Natal
+Anápolis
+ASA
+Audax Rio
+Avenida
+Azuriz
+Barra
+Brasil de Pelotas
+Brasiliense
+Cascavel
+Cianorte
+Concórdia
+Costa Rica
+Crac
+Democrata
+Dourados
+Falcon
+Ferroviário
+Fluminense de Feira
+Galvez
+Hercílio Luz
+Humaitá
+Iguatu
+Inter de Limeira
+Ipatinga
+Itabirito
+Itabaiana
+Jacobinense
+Juazeirense
+Maracanã
+Mixto
+Moto Club
+Nova Iguaçu
+Novo Hamburgo
+Operário de Várzea Grande
+Parnahyba
+Patrocinense
+Porto Velho
+Potiguar de Mossoró
+Princesa do Solimões
+Real Brasília
+Retrô
+Rio Branco de Acre
+Rio Branco de Venda Nova
+Santa Cruz
+Sergipe
+Sousa
+São José de Porto Alegre
+São Raimundo de Roraima
+São Raimundo do Pará
+Treze
+Trem
+Tuna Luso
+União Rondonópolis
+
+
